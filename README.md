@@ -1,8 +1,16 @@
 # flutter_app_template
-flutter项目模板代码,主要包括结构目录以及基础的依赖包(可以根据自己的需要做删减)
-## flutter sdk version: 3.35.1(stable)
-## dart version: 3.9.0
-## devtools version: 2.48.0
-## gradle version: 8.12-all
-## 注意事项:
-android和ios需要更新自己的applicationId和bundleId
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
